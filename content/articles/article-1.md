@@ -115,7 +115,7 @@ void main(int arg){
 - 飞船<icon name="feichuan"></icon>
 - 星星<icon name="star"></icon>
 - 星球<icon name="xingqiu"></icon>
-- 星球<icon name="sun"></icon>
+- 可以给一个宽度 icon-style="w-10"设置一个宽度,太阳<icon name="sun" icon-style="w-10"></icon>
 - 月亮<icon name="moon"></icon>
 
 - 文字<text-style size="text-3xl font-bold" color="text-red-500">自定义的文字</text-style>文字
