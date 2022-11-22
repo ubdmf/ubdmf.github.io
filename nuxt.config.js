@@ -140,6 +140,6 @@ export default {
     }))
   },
   publicRuntimeConfig: {
-    baseUrl: 'https://ubdmf.github.io/',
+    baseUrl: 'https://yourname.github.io/',
   },
 }
