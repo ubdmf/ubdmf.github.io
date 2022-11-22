@@ -4,12 +4,12 @@
   access any variable via object syntax global.yourVarName
 */
 export default {
-  siteUrl: 'https://kyoapps-kyo.github.io/',
+  siteUrl: 'https://yourname.github.io/',
   siteName: 'Little Star',
   author: 'WXX',
   twitterHandle: '',
   twitterURL: '',
-  githubURL: 'https://github.com/kyoapps-kyo',
+  githubURL: 'https://github.com/yourname',
   siteTitle: 'Little Star',
   siteDesc: '好好学习天天向上',
   mainImage: '',
