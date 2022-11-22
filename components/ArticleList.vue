@@ -13,8 +13,7 @@
           class="md:grid md:gap-4 md:grid-cols-2"
         >
           <img
-            v-if="article.image"
-            :src="article.image"
+            :src="article.image || '/imgs/yellow.webp'"
             class="mb-4 border rounded"
           />
           <div>
